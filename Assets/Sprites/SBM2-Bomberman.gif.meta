@@ -1,0 +1,4984 @@
+fileFormatVersion: 2
+guid: e88ddf4fdfd4fd2488f6de6377b9f14d
+timeCreated: 1510888784
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SBM2-Bomberman_0
+    21300002: SBM2-Bomberman_1
+    21300004: SBM2-Bomberman_2
+    21300006: SBM2-Bomberman_3
+    21300008: SBM2-Bomberman_4
+    21300010: SBM2-Bomberman_5
+    21300012: SBM2-Bomberman_6
+    21300014: SBM2-Bomberman_7
+    21300016: SBM2-Bomberman_8
+    21300018: SBM2-Bomberman_9
+    21300020: SBM2-Bomberman_10
+    21300022: SBM2-Bomberman_11
+    21300024: SBM2-Bomberman_12
+    21300026: SBM2-Bomberman_13
+    21300028: SBM2-Bomberman_14
+    21300030: SBM2-Bomberman_15
+    21300032: SBM2-Bomberman_16
+    21300034: SBM2-Bomberman_17
+    21300036: SBM2-Bomberman_18
+    21300038: SBM2-Bomberman_19
+    21300040: SBM2-Bomberman_20
+    21300042: SBM2-Bomberman_21
+    21300044: SBM2-Bomberman_22
+    21300046: SBM2-Bomberman_23
+    21300048: SBM2-Bomberman_24
+    21300050: SBM2-Bomberman_25
+    21300052: SBM2-Bomberman_26
+    21300054: SBM2-Bomberman_27
+    21300056: SBM2-Bomberman_28
+    21300058: SBM2-Bomberman_29
+    21300060: SBM2-Bomberman_30
+    21300062: SBM2-Bomberman_31
+    21300064: SBM2-Bomberman_32
+    21300066: SBM2-Bomberman_33
+    21300068: SBM2-Bomberman_34
+    21300070: SBM2-Bomberman_35
+    21300072: SBM2-Bomberman_36
+    21300074: SBM2-Bomberman_37
+    21300076: SBM2-Bomberman_38
+    21300078: SBM2-Bomberman_39
+    21300080: SBM2-Bomberman_40
+    21300082: SBM2-Bomberman_41
+    21300084: SBM2-Bomberman_42
+    21300086: SBM2-Bomberman_43
+    21300088: SBM2-Bomberman_44
+    21300090: SBM2-Bomberman_45
+    21300092: SBM2-Bomberman_46
+    21300094: SBM2-Bomberman_47
+    21300096: SBM2-Bomberman_48
+    21300098: SBM2-Bomberman_49
+    21300100: SBM2-Bomberman_50
+    21300102: SBM2-Bomberman_51
+    21300104: SBM2-Bomberman_52
+    21300106: SBM2-Bomberman_53
+    21300108: SBM2-Bomberman_54
+    21300110: SBM2-Bomberman_55
+    21300112: SBM2-Bomberman_56
+    21300114: SBM2-Bomberman_57
+    21300116: SBM2-Bomberman_58
+    21300118: SBM2-Bomberman_59
+    21300120: SBM2-Bomberman_60
+    21300122: SBM2-Bomberman_61
+    21300124: SBM2-Bomberman_62
+    21300126: SBM2-Bomberman_63
+    21300128: SBM2-Bomberman_64
+    21300130: SBM2-Bomberman_65
+    21300132: SBM2-Bomberman_66
+    21300134: SBM2-Bomberman_67
+    21300136: SBM2-Bomberman_68
+    21300138: SBM2-Bomberman_69
+    21300140: SBM2-Bomberman_70
+    21300142: SBM2-Bomberman_71
+    21300144: SBM2-Bomberman_72
+    21300146: SBM2-Bomberman_73
+    21300148: SBM2-Bomberman_74
+    21300150: SBM2-Bomberman_75
+    21300152: SBM2-Bomberman_76
+    21300154: SBM2-Bomberman_77
+    21300156: SBM2-Bomberman_78
+    21300158: SBM2-Bomberman_79
+    21300160: SBM2-Bomberman_80
+    21300162: SBM2-Bomberman_81
+    21300164: SBM2-Bomberman_82
+    21300166: SBM2-Bomberman_83
+    21300168: SBM2-Bomberman_84
+    21300170: SBM2-Bomberman_85
+    21300172: SBM2-Bomberman_86
+    21300174: SBM2-Bomberman_87
+    21300176: SBM2-Bomberman_88
+    21300178: SBM2-Bomberman_89
+    21300180: SBM2-Bomberman_90
+    21300182: SBM2-Bomberman_91
+    21300184: SBM2-Bomberman_92
+    21300186: SBM2-Bomberman_93
+    21300188: SBM2-Bomberman_94
+    21300190: SBM2-Bomberman_95
+    21300192: SBM2-Bomberman_96
+    21300194: SBM2-Bomberman_97
+    21300196: SBM2-Bomberman_98
+    21300198: SBM2-Bomberman_99
+    21300200: SBM2-Bomberman_100
+    21300202: SBM2-Bomberman_101
+    21300204: SBM2-Bomberman_102
+    21300206: SBM2-Bomberman_103
+    21300208: SBM2-Bomberman_104
+    21300210: SBM2-Bomberman_105
+    21300212: SBM2-Bomberman_106
+    21300214: SBM2-Bomberman_107
+    21300216: SBM2-Bomberman_108
+    21300218: SBM2-Bomberman_109
+    21300220: SBM2-Bomberman_110
+    21300222: SBM2-Bomberman_111
+    21300224: SBM2-Bomberman_112
+    21300226: SBM2-Bomberman_113
+    21300228: SBM2-Bomberman_114
+    21300230: SBM2-Bomberman_115
+    21300232: SBM2-Bomberman_116
+    21300234: SBM2-Bomberman_117
+    21300236: SBM2-Bomberman_118
+    21300238: SBM2-Bomberman_119
+    21300240: SBM2-Bomberman_120
+    21300242: SBM2-Bomberman_121
+    21300244: SBM2-Bomberman_122
+    21300246: SBM2-Bomberman_123
+    21300248: SBM2-Bomberman_124
+    21300250: SBM2-Bomberman_125
+    21300252: SBM2-Bomberman_126
+    21300254: SBM2-Bomberman_127
+    21300256: SBM2-Bomberman_128
+    21300258: SBM2-Bomberman_129
+    21300260: SBM2-Bomberman_130
+    21300262: SBM2-Bomberman_131
+    21300264: SBM2-Bomberman_132
+    21300266: SBM2-Bomberman_133
+    21300268: SBM2-Bomberman_134
+    21300270: SBM2-Bomberman_135
+    21300272: SBM2-Bomberman_136
+    21300274: SBM2-Bomberman_137
+    21300276: SBM2-Bomberman_138
+    21300278: SBM2-Bomberman_139
+    21300280: SBM2-Bomberman_140
+    21300282: SBM2-Bomberman_141
+    21300284: SBM2-Bomberman_142
+    21300286: SBM2-Bomberman_143
+    21300288: SBM2-Bomberman_144
+    21300290: SBM2-Bomberman_145
+    21300292: SBM2-Bomberman_146
+    21300294: SBM2-Bomberman_147
+    21300296: SBM2-Bomberman_148
+    21300298: SBM2-Bomberman_149
+    21300300: SBM2-Bomberman_150
+    21300302: SBM2-Bomberman_151
+    21300304: SBM2-Bomberman_152
+    21300306: SBM2-Bomberman_153
+    21300308: SBM2-Bomberman_154
+    21300310: SBM2-Bomberman_155
+    21300312: SBM2-Bomberman_156
+    21300314: SBM2-Bomberman_157
+    21300316: SBM2-Bomberman_158
+    21300318: SBM2-Bomberman_159
+    21300320: SBM2-Bomberman_160
+    21300322: SBM2-Bomberman_161
+    21300324: SBM2-Bomberman_162
+    21300326: SBM2-Bomberman_163
+    21300328: SBM2-Bomberman_164
+    21300330: SBM2-Bomberman_165
+    21300332: SBM2-Bomberman_166
+    21300334: SBM2-Bomberman_167
+    21300336: SBM2-Bomberman_168
+    21300338: SBM2-Bomberman_169
+    21300340: SBM2-Bomberman_170
+    21300342: SBM2-Bomberman_171
+    21300344: SBM2-Bomberman_172
+    21300346: SBM2-Bomberman_173
+    21300348: SBM2-Bomberman_174
+    21300350: SBM2-Bomberman_175
+    21300352: SBM2-Bomberman_176
+    21300354: SBM2-Bomberman_177
+    21300356: SBM2-Bomberman_178
+    21300358: SBM2-Bomberman_179
+    21300360: SBM2-Bomberman_180
+    21300362: SBM2-Bomberman_181
+    21300364: SBM2-Bomberman_182
+    21300366: SBM2-Bomberman_183
+    21300368: SBM2-Bomberman_184
+    21300370: SBM2-Bomberman_185
+    21300372: SBM2-Bomberman_186
+    21300374: SBM2-Bomberman_187
+    21300376: SBM2-Bomberman_188
+    21300378: SBM2-Bomberman_189
+    21300380: SBM2-Bomberman_190
+    21300382: SBM2-Bomberman_191
+    21300384: SBM2-Bomberman_192
+    21300386: SBM2-Bomberman_193
+    21300388: SBM2-Bomberman_194
+    21300390: SBM2-Bomberman_195
+    21300392: SBM2-Bomberman_196
+    21300394: SBM2-Bomberman_197
+    21300396: SBM2-Bomberman_198
+    21300398: SBM2-Bomberman_199
+    21300400: SBM2-Bomberman_200
+    21300402: SBM2-Bomberman_201
+    21300404: SBM2-Bomberman_202
+    21300406: SBM2-Bomberman_203
+    21300408: SBM2-Bomberman_204
+    21300410: SBM2-Bomberman_205
+    21300412: SBM2-Bomberman_206
+    21300414: SBM2-Bomberman_207
+    21300416: SBM2-Bomberman_208
+    21300418: SBM2-Bomberman_209
+    21300420: SBM2-Bomberman_210
+    21300422: SBM2-Bomberman_211
+    21300424: SBM2-Bomberman_212
+    21300426: SBM2-Bomberman_213
+    21300428: SBM2-Bomberman_214
+    21300430: SBM2-Bomberman_215
+    21300432: SBM2-Bomberman_216
+    21300434: SBM2-Bomberman_217
+    21300436: SBM2-Bomberman_218
+    21300438: SBM2-Bomberman_219
+    21300440: SBM2-Bomberman_220
+    21300442: SBM2-Bomberman_221
+    21300444: SBM2-Bomberman_222
+    21300446: SBM2-Bomberman_223
+    21300448: SBM2-Bomberman_224
+    21300450: SBM2-Bomberman_225
+    21300452: SBM2-Bomberman_226
+    21300454: SBM2-Bomberman_227
+    21300456: SBM2-Bomberman_228
+    21300458: SBM2-Bomberman_229
+    21300460: SBM2-Bomberman_230
+    21300462: SBM2-Bomberman_231
+    21300464: SBM2-Bomberman_232
+    21300466: SBM2-Bomberman_233
+    21300468: SBM2-Bomberman_234
+    21300470: SBM2-Bomberman_235
+    21300472: SBM2-Bomberman_236
+    21300474: SBM2-Bomberman_237
+    21300476: SBM2-Bomberman_238
+    21300478: SBM2-Bomberman_239
+    21300480: SBM2-Bomberman_240
+    21300482: SBM2-Bomberman_241
+    21300484: SBM2-Bomberman_242
+    21300486: SBM2-Bomberman_243
+    21300488: SBM2-Bomberman_244
+    21300490: SBM2-Bomberman_245
+    21300492: SBM2-Bomberman_246
+    21300494: SBM2-Bomberman_247
+    21300496: SBM2-Bomberman_248
+    21300498: SBM2-Bomberman_249
+    21300500: SBM2-Bomberman_250
+    21300502: SBM2-Bomberman_251
+    21300504: SBM2-Bomberman_252
+    21300506: SBM2-Bomberman_253
+    21300508: SBM2-Bomberman_254
+    21300510: SBM2-Bomberman_255
+    21300512: SBM2-Bomberman_256
+    21300514: SBM2-Bomberman_257
+    21300516: SBM2-Bomberman_258
+    21300518: SBM2-Bomberman_259
+    21300520: SBM2-Bomberman_260
+    21300522: SBM2-Bomberman_261
+    21300524: SBM2-Bomberman_262
+    21300526: SBM2-Bomberman_263
+    21300528: SBM2-Bomberman_264
+    21300530: SBM2-Bomberman_265
+    21300532: SBM2-Bomberman_266
+    21300534: SBM2-Bomberman_267
+    21300536: SBM2-Bomberman_268
+    21300538: SBM2-Bomberman_269
+    21300540: SBM2-Bomberman_270
+    21300542: SBM2-Bomberman_271
+    21300544: SBM2-Bomberman_272
+    21300546: SBM2-Bomberman_273
+    21300548: SBM2-Bomberman_274
+    21300550: SBM2-Bomberman_275
+    21300552: SBM2-Bomberman_276
+    21300554: SBM2-Bomberman_277
+    21300556: SBM2-Bomberman_278
+    21300558: SBM2-Bomberman_279
+    21300560: SBM2-Bomberman_280
+    21300562: SBM2-Bomberman_281
+    21300564: SBM2-Bomberman_282
+    21300566: SBM2-Bomberman_283
+    21300568: SBM2-Bomberman_284
+    21300570: SBM2-Bomberman_285
+    21300572: SBM2-Bomberman_286
+    21300574: SBM2-Bomberman_287
+    21300576: SBM2-Bomberman_288
+    21300578: SBM2-Bomberman_289
+    21300580: SBM2-Bomberman_290
+    21300582: SBM2-Bomberman_291
+    21300584: SBM2-Bomberman_292
+    21300586: SBM2-Bomberman_293
+    21300588: SBM2-Bomberman_294
+    21300590: SBM2-Bomberman_295
+    21300592: SBM2-Bomberman_296
+    21300594: SBM2-Bomberman_297
+    21300596: SBM2-Bomberman_298
+    21300598: SBM2-Bomberman_299
+    21300600: SBM2-Bomberman_300
+    21300602: SBM2-Bomberman_301
+    21300604: SBM2-Bomberman_302
+    21300606: SBM2-Bomberman_303
+    21300608: SBM2-Bomberman_304
+    21300610: SBM2-Bomberman_305
+    21300612: SBM2-Bomberman_306
+    21300614: SBM2-Bomberman_307
+    21300616: SBM2-Bomberman_308
+    21300618: SBM2-Bomberman_309
+    21300620: SBM2-Bomberman_310
+    21300622: SBM2-Bomberman_311
+    21300624: SBM2-Bomberman_312
+    21300626: SBM2-Bomberman_313
+    21300628: SBM2-Bomberman_314
+    21300630: SBM2-Bomberman_315
+    21300632: SBM2-Bomberman_316
+    21300634: SBM2-Bomberman_317
+    21300636: SBM2-Bomberman_318
+    21300638: SBM2-Bomberman_319
+    21300640: SBM2-Bomberman_320
+    21300642: SBM2-Bomberman_321
+    21300644: SBM2-Bomberman_322
+    21300646: SBM2-Bomberman_323
+    21300648: SBM2-Bomberman_324
+    21300650: SBM2-Bomberman_325
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SBM2-Bomberman_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 220
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 220
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 219
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 220
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 220
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 220
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 219
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 220
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_19
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 220
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_21
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_24
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_26
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 220
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_27
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 220
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_28
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_29
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 219
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_30
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 220
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_31
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 220
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_32
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 220
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 219
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 220
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_35
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 220
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_36
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_37
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 186
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 186
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_39
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 186
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 186
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 186
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 186
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_43
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 186
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_44
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 186
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_45
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 190
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 188
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 189
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 187
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_50
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 189
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 187
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 195
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 195
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_54
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 193
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_55
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 195
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_56
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 193
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_57
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 193
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_58
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 195
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_59
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 196
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_60
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_61
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 197
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 187
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_63
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 186
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_64
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 202
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_65
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 186
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_66
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 186
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_67
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 188
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_68
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 194
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_69
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 193
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_70
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 189
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_71
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 186
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_72
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 197
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_73
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 186
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_74
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 193
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_75
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 186
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 154
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_77
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 154
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_78
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 155
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_79
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_81
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 157
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_82
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 155
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_83
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 154
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_85
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 154
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_86
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 153
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_87
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 158
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 157
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_89
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 157
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_90
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 157
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 155
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 155
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_93
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_94
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_95
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 154
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_96
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 155
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_97
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 154
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_98
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 155
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_99
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 153
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_100
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_101
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 153
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_102
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 153
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_103
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 152
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_104
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 152
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_105
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 151
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_106
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 152
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_107
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 151
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_108
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 151
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 118
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_110
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 118
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_111
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 117
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_112
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 117
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_113
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 118
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_114
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 118
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_115
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 118
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_116
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 119
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_117
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 119
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_119
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 120
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_120
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 120
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_121
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 125
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_122
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 121
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_123
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 127
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_124
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 129
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 125
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_126
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 126
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_127
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 125
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_128
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 126
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_129
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 118
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_130
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 118
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_131
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 118
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_132
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 116
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_133
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 120
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_134
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 118
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_135
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 103
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_136
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 120
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_137
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 120
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_138
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 117
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_139
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 115
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_140
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 115
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_141
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_142
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_143
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_144
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_146
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_147
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_148
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_149
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_150
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_151
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_152
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_153
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_154
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_155
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_156
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_157
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 92
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_158
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_159
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_160
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 87
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_161
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_162
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 87
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_163
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_164
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_165
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_166
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_167
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_168
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_169
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_170
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_171
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_172
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_173
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_174
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 86
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_175
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_176
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_177
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_179
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_180
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_181
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_182
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_183
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_184
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_185
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_186
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_187
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_188
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_189
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_190
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_191
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_192
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_193
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_194
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_195
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_196
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_197
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_198
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_199
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_200
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_201
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_202
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_203
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 68
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_204
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_205
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_206
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_207
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_208
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_209
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_210
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_211
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_212
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_213
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_214
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_215
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_216
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_217
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_218
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_219
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_220
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_221
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_222
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_223
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_224
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_225
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_226
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_227
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_228
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_229
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_230
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_231
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_232
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 37
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_233
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_234
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_235
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_236
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_237
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_238
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_239
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_240
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_241
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_242
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_243
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_244
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_245
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_246
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_247
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 34
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_248
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_249
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_250
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_251
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_252
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_253
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_254
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_255
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_256
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_257
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_258
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_259
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_260
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_261
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_262
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 22
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_263
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_264
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_265
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_266
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_267
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_268
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_269
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 22
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_270
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 22
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_271
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_272
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_273
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_274
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_275
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_276
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_277
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_278
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_279
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_280
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_281
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_282
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 22
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_283
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 20
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_284
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_285
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_286
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_287
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 20
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_288
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_289
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_290
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_291
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_292
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 11
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_293
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 11
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_294
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_295
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_296
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_297
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_298
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 11
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_299
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_300
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_301
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_302
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 11
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_303
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 11
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_304
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 9
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_305
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_306
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_307
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_308
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_309
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_310
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_311
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_312
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 11
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_313
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_314
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_315
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 11
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_316
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 11
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_317
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 9
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_318
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_319
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_320
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_321
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_322
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_323
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 11
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_324
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 11
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SBM2-Bomberman_325
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 11
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
