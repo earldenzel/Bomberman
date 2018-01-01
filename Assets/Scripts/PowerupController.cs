@@ -14,6 +14,7 @@ public class PowerupController : MonoBehaviour {
         {
             BombSpawner playerStats = collision.gameObject.GetComponent<BombSpawner>();
             PlayerController playerStats2 = collision.gameObject.GetComponent<PlayerController>();
+            BombHandler playerStats3 = collision.gameObject.GetComponent<BombHandler>();
             switch (gameObject.tag)
             {
                 case "FireUp":
@@ -29,10 +30,27 @@ public class PowerupController : MonoBehaviour {
                     }
                     break;
                 case "SpeedUp":
-                    if (playerStats2.Speed < 8)
+                    if (playerStats2.speed < 8)
                     {
-                        playerStats2.Speed++;
+                        playerStats2.speed++;
                     }
+                    break;
+                case "MaxFireUp":
+                    playerStats.Strength = 9;
+                    break;
+                case "Detonate":
+                    playerStats3.canRemoteDetonate = true;
+                    break;
+                case "Kick":
+                    playerStats3.canKick = true;
+                    break;
+                case "Punch":
+                    playerStats3.canPunch = true;
+                    break;
+                case "Skull":
+                    float currentSpeed = playerStats2.speed;
+                    int currentStrength = playerStats.Strength;
+                    StartCoroutine(playerStats3.Skull(currentSpeed, currentStrength));
                     break;
                 default:
                     break;

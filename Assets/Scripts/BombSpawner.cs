@@ -38,6 +38,10 @@ public class BombSpawner : MonoBehaviour {
 
         set
         {
+            if (value < 0)
+            {
+                value = 0;
+            }
             outBombs = value;
         }
     }
@@ -66,14 +70,18 @@ public class BombSpawner : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         myTime += Time.deltaTime;
-        Debug.Log(OutBombs + "/" + MaxBombs);
         if (Input.GetButtonUp("Fire1") && OutBombs < MaxBombs && myTime>nextBomb)
         {
-            bombPosition = new Vector2(Mathf.Round(playerTransform.position.x), Mathf.Round(playerTransform.position.y - 0.5f));
-            spawnedBomb = Instantiate(bomb, bombPosition, Quaternion.identity) as GameObject;
-            spawnedBomb.GetComponent<BombDetonator>().Bomber = this.gameObject;
-            OutBombs++;
-            myTime = 0.0f;
+            LayBombs();
         }
 	}
+
+    public void LayBombs()
+    {
+        bombPosition = new Vector2(Mathf.Round(playerTransform.position.x), Mathf.Round(playerTransform.position.y - 0.5f));
+        spawnedBomb = Instantiate(bomb, bombPosition, Quaternion.identity) as GameObject;
+        spawnedBomb.GetComponent<BombDetonator>().Bomber = this.gameObject;
+        OutBombs++;
+        myTime = 0.0f;
+    }
 }

@@ -101,6 +101,11 @@ MonoBehaviour:
   bombUp: {fileID: 1270173799463304, guid: 2b92aab18176f5144aec74b058753eef, type: 2}
   fireUp: {fileID: 1559521301635946, guid: f32e88618acccc64596c071a167fc8ad, type: 2}
   speedUp: {fileID: 1328666564515938, guid: 917eaf1ae1695834fbd608c0399f55f7, type: 2}
+  maxFireUp: {fileID: 1052362077845466, guid: 5b8692f09ffde69439ed317f62c996c1, type: 2}
+  punch: {fileID: 1330429127844542, guid: d1d3ec7b4b7ff024bac1655c0f88c815, type: 2}
+  kick: {fileID: 1091343689573240, guid: 8f11e62f3e860d64d8b0f4f53d580130, type: 2}
+  detonate: {fileID: 1067291198636302, guid: 09981c49391b8534885457dc2d25d2ca, type: 2}
+  skull: {fileID: 1090491352578200, guid: 9ca56760cbb756940989098669aec31b, type: 2}
 --- !u!212 &212922878308736568
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -10,6 +10,11 @@ TagManager:
   - BombUp
   - FireUp
   - SpeedUp
+  - MaxFireUp
+  - Punch
+  - Kick
+  - Detonate
+  - Skull
   layers:
   - Default
   - TransparentFX
@@ -19,7 +24,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Bomb
   - 
   - 
   - 

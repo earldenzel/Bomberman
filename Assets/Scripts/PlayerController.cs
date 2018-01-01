@@ -6,37 +6,23 @@ public class PlayerController : MonoBehaviour {
 
     private Animator animator;
     private Rigidbody2D bombermanBody;
-    private float speed;
-
-    public float Speed
-    {
-        get
-        {
-            return speed;
-        }
-
-        set
-        {
-            speed = value;
-        }
-    }
+    public float speed;
 
     // Use this for initialization
     void Start()
     {
         animator = this.GetComponent<Animator>();
         bombermanBody = this.GetComponent<Rigidbody2D>();
-        Speed = 3;
+        speed = 3;
     }
 
     // Update is called once per frame
     void Update()
     {
-
         var vertical = Input.GetAxis("Vertical");
         var horizontal = Input.GetAxis("Horizontal");
 
-        bombermanBody.velocity = Speed * new Vector2(horizontal, vertical);
+        bombermanBody.velocity = speed * new Vector2(horizontal, vertical);
 
         if (vertical == 0 && horizontal == 0)
         {            

@@ -88,6 +88,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
+    m_ShowResolutionOverlay: 1
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -126,6 +127,7 @@ GameObject:
   - component: {fileID: 82927581}
   - component: {fileID: 82927579}
   - component: {fileID: 82927580}
+  - component: {fileID: 82927582}
   m_Layer: 0
   m_Name: Bomberman
   m_TagString: Player
@@ -218,6 +220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 493e7872c297dec4d97fe812c639a329, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 0
 --- !u!58 &82927579
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -266,6 +269,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bomb: {fileID: 1766084929805002, guid: 5c894a120409e5b4a9f8e9e08d41e3fb, type: 2}
   nextBomb: 0.5
+--- !u!114 &82927582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 82927574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1db5e8315c2a4840ae9f92f8da3c2b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canKick: 0
+  canPunch: 0
+  canRemoteDetonate: 0
+  skullEffect: 0
 --- !u!1 &1530668325
 GameObject:
   m_ObjectHideFlags: 0
@@ -372,6 +390,7 @@ Camera:
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10

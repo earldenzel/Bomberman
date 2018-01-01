@@ -41,7 +41,6 @@ public class BombDetonator : MonoBehaviour {
         StartCoroutine(Explode(lifeTime));
         bombSpawner = bomber.GetComponent<BombSpawner>();
         bombCollider = this.GetComponent<CircleCollider2D>();
-        centerPosition = this.transform.position;
         strength = bombSpawner.Strength;
         bombCollider.isTrigger = true; //enables transparent walking on bomb spawn
         lastOne = false;
@@ -57,6 +56,7 @@ public class BombDetonator : MonoBehaviour {
 
     void SpawnExplosions()
     {
+        centerPosition = this.transform.position;
         Instantiate(centerExplosion, centerPosition, Quaternion.identity);
         for (int i = 1; i <= strength; i++)
         {

@@ -14,9 +14,4 @@ public class DestroyByTime : MonoBehaviour {
         yield return new WaitForSeconds(0.5f);
         Destroy(this.gameObject);
     }
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
